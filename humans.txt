@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gouemo Olaf			olaf@git.training		@awesomejt
 
 # THANKS
 
